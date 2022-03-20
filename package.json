@@ -1,6 +1,6 @@
 {
   "name": "why2-encryption-system.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js wrapper for encryption system WHY2 made by ENGO150 in C lang.",
   "main": "index.js",
   "scripts": {

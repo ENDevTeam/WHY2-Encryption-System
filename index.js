@@ -1,4 +1,4 @@
 module.exports = {
-  decrypter: require("./src/decrypter"),
-  encrypter: require("./src/encrypter")
+  decrypt: require("./src/decrypter"),
+  encrypt: require("./src/encrypter")
 }
