@@ -1,3 +1,5 @@
+const crypto = require("crypto");
+
 module.exports = async (text, key = undefined) => {
 	const KEY_LENGTH = 50
         const ENCRYPTION_SEPARATOR_STRING = '.';
