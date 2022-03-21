@@ -1,4 +1,8 @@
 # WHY2 Encryption System
+[!npm download badge](https://img.shields.io/npm/dw/why2-encryption-system.js?style=flat-square)
+### This part of project is created completely by [SebestikCZ](https://github.com/SebestikCZ)..[.](https://engo150.github.io/res/rickroll.mp3)
+
+---
 
 ### Table of contents
 
@@ -41,3 +45,6 @@ _Note: exit codes \
 ## Example programs
 
 Uhm... There aren't any examples (for now)... I will maybe create some... Later...
+
+## External links
+[npm registry](https://www.npmjs.com/package/why2-encryption-system.js)

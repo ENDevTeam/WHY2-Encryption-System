@@ -1,13 +1,10 @@
 {
   "name": "why2-encryption-system.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Node.js wrapper for encryption system WHY2 made by ENGO150 in C lang.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
