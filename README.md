@@ -1,5 +1,10 @@
 # WHY2 Encryption System
-[![npm download badge](https://img.shields.io/npm/dw/why2-encryption-system.js?style=flat-square)]()
+<div align=center>
+    <img alt="npm download badge" src="https://img.shields.io/npm/dw/why2-encryption-system.js?style=flat-square" />
+    <br />
+    <a href="https://www.npmjs.com/package/why2-encryption-system.js"><img src="https://nodei.co/npm/why2-encryption-system.js.png?downloads=true&downloadRank=true&stars=true" alt="NPM Banner"></a>
+</div>
+
 ### This part of project is created completely by [SebestikCZ](https://github.com/SebestikCZ)..[.](https://engo150.github.io/res/rickroll.mp3)
 
 ---
@@ -9,6 +14,7 @@
   - [Using in Your projects](#using-in-your-projects)
   - [Example of code](#example-of-code)
   - [Example programs](#example-programs)
+  - [External links](#external-links)
 
 ## Using in Your projects 
 
@@ -31,7 +37,7 @@ To **decrypt** text, use function `decrypt()` from file `./index.js`.
     ```
 **WARNING!** The key from encryption will be printed out along the text value as an object \
 **The method needs to be awaited, due to `crypto` randomizer.**
-_Note: exit codes \
+### Exit codes
 `-2` - invalid key \
 `0` - operation completed successfully \
 `-1` - operation failed, description available using error property_
