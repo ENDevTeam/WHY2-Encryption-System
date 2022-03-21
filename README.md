@@ -1,5 +1,5 @@
 # WHY2 Encryption System
-[!npm download badge](https://img.shields.io/npm/dw/why2-encryption-system.js?style=flat-square)
+[![npm download badge](https://img.shields.io/npm/dw/why2-encryption-system.js?style=flat-square)]()
 ### This part of project is created completely by [SebestikCZ](https://github.com/SebestikCZ)..[.](https://engo150.github.io/res/rickroll.mp3)
 
 ---
