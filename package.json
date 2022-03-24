@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ENGO150/WHY2-Encryption-System.git#js"
+    "url": "git+https://github.com/ENDev-WHY2/WHY2-Encryption-System.git#js"
   },
   "keywords": [
     "why2",
@@ -22,7 +22,7 @@
   "author": "Šebestíček & ENGO150",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ENGO150/WHY2-Encryption-System/issues"
+    "url": "https://github.com/ENDev-WHY2/WHY2-Encryption-System/issues"
   },
-  "homepage": "https://github.com/ENGO150/WHY2-Encryption-System/tree/js#readme"
+  "homepage": "https://github.com/ENDev-WHY2/WHY2-Encryption-System/tree/js#readme"
 }
