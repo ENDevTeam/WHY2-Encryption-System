@@ -50,7 +50,7 @@ To **decrypt** text, use function `decrypt()` from file `./index.js`.
 
 ## Example programs
 
-Uhm... There aren't any examples (for now)... I will maybe create some... Later...
+Uhm... There aren't any examples (for now)... We will maybe create some... Later...
 
 ## External links
 [npm registry](https://www.npmjs.com/package/why2-encryption-system.js)
