@@ -15,6 +15,8 @@
   - [Example of code](#example-of-code)
   - [Example programs](#example-programs)
   - [External links](#external-links)
+  - WHY2 in another languages
+    - [C](#c-version)
 
 ## Using in Your projects 
 
@@ -54,3 +56,7 @@ Uhm... There aren't any examples (for now)... We will maybe create some... Later
 
 ## External links
 [npm registry](https://www.npmjs.com/package/why2-encryption-system.js)
+
+## C Version
+
+You can found the C version [>> RIGHT HERE <<](https://github.com/ENDev-WHY2/WHY2-Encryption-System/tree/c).
