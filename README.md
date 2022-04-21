@@ -1,4 +1,7 @@
 # WHY2 Encryption System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/735089122bd349d6b78f176a63f29c79)](https://app.codacy.com/gh/ENDev-WHY2/WHY2-Encryption-System?utm_source=github.com&utm_medium=referral&utm_content=ENDev-WHY2/WHY2-Encryption-System&utm_campaign=Badge_Grade_Settings)
+
 <div align=center>
     <img alt="npm download badge" src="https://img.shields.io/npm/dw/why2-encryption-system.js?style=flat-square" />
     <br />
